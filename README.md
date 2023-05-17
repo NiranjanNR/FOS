@@ -1,5 +1,5 @@
-# FOS
-![fos-transparent-bg](https://github.com/NiranjanNR/FOS/assets/84635960/91d9eed5-b879-4540-9313-1f7ae850ec99)
+
+![fos-low-resolution-color-logo](https://github.com/NiranjanNR/FOS/assets/84635960/c35645f2-4f38-47b8-b077-ce42de66da05)
 
 ## FOS is an attempt at contibuting to the increase in energy efficient technology using the rising power of artificial intelligence and deep learning.
 
