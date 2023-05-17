@@ -16,3 +16,6 @@ the above specified deep learning models for object detection and pose detection
 library called gpiozero to use the pins of the raspberry pi 4 to control LEDs to show for the proof of concept.
 
 The following gif can show you our proof of concept.
+
+https://github.com/NiranjanNR/FOS/assets/84635960/cd15f741-ab64-4758-9ba1-602a6f16ae61
+
