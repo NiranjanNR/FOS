@@ -3,6 +3,8 @@
 
 ## FOS is an attempt at contributing to the increase in energy efficient technology using the rising power of artificial intelligence and deep learning.
 
+Research Paper - https://ieeexplore.ieee.org/abstract/document/10290388
+
 The whole idea of FOS can be reflected through using OpenCV with deep learning models like TFLite and mediapipe to understand what activity 
 a person is indluged in and to control the luminance of a bulb used to light the given environment. This can not only prove really helpful 
 to the person using the bulb and save him efforts in adjusting the light himself but it can also prove really helpful by cutting the excess
